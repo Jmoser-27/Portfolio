@@ -65,3 +65,17 @@ ul>li{
     text-align:center;
     padding:10px;
 }
+
+#bobaSite{
+    width: 1200px;
+    height:800px;
+}
+
+#certImgs img{
+    width:400px;
+    height:auto;
+}
+
+@media(max-width: 768px){
+    nav{flex-direction:column}
+}
