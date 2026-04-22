@@ -61,9 +61,10 @@ ul>li{
     
 }
 .footer{
-    background-color:#a3b18a;
+    background-color:#344E41;
     text-align:center;
     padding:10px;
+    color:#dad7cd;
 }
 
 #bobaSite{
@@ -84,4 +85,14 @@ ul>li{
     margin-left:auto;
     margin-right:auto;
     width: 60vw;
+}
+
+#mail{
+    color:#dad7cd;
+}
+#mail:hover{
+    color:#588157;
+}
+#mail:active{
+    color:black;
 }
